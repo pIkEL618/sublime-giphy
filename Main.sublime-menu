@@ -1,0 +1,12 @@
+[
+    {
+        "id": "selection",
+        "children":
+        [
+            {
+                "caption": "Markdown for random gif from selection as keyword",
+                "command": "giphy"
+            }
+        ]
+    },
+]
