@@ -7,4 +7,4 @@ This handy function grabs random gifs from [giphy](https://giphy.com/) for a giv
 
 To install this to your Sublime Text 3 installation running on Mac OS, put all files under /Users/xxxx/Library/Application Support/Sublime Text 3/Packages/User/
 
-![sublime giphy gif](sublime-giphy.gif)
+![sublime giphy gif](readme-gif.gif)
