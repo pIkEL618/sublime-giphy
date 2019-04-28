@@ -8,7 +8,7 @@ This handy function grabs random gifs from [giphy](https://giphy.com/) for a giv
 ![sublime giphy gif](readme-gif.gif)
 
 ### Installation
-To install this to your Sublime Text 3 installation running on Mac OS, put all files under /Users/xxxx/Library/Application Support/Sublime Text 3/Packages/User/
+To install this to your Sublime Text 3 installation running on Mac OS, just put all files under /Users/xxxx/Library/Application Support/Sublime Text 3/Packages/User/
 
 ### I am a TOTAL geek and want this, but for emacs
 Checkout this repo: [emacs-giphy](https://github.com/chamook/emacs-giphy), that inspired me to do this one.
